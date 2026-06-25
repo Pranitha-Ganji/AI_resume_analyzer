@@ -4,6 +4,6 @@ cd AI_resume_analyzer
 
 pip install streamlit pdfplumber genai types
 
-streamlit run resume_app.y
+streamlit run resume_app.py
 
 # AI_resume_analyzer
